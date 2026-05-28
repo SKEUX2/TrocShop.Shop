@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Landing Hero",
+  "description": "An immersive, cinematic-quality landing page hero featuring high-fidelity skeuomorphic card designs, dynamic real-time GSAP scroll animations, and fluid mouse spotlight effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
